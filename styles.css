@@ -1,1 +1,34 @@
 /* add your CSS here */
+.card {
+	border: 1px solid #d9d9d9;
+	padding: 10px;
+	box-shadow: 9px 10px 5px -1px rgba(0,0,0,0.18);
+	width: 300px;
+}
+
+.card-title {
+	padding-bottom: 5px;
+}
+
+.card-image {
+	padding-bottom: 10px;	
+}
+
+.card-box-facts {
+	font-style: italic;
+}
+
+.card-box {
+	border: 1px solid #d9d9d9;
+	padding: 10px;
+}
+
+.card-box-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.card-box-list-item span {
+	font-weight: bold;
+}
